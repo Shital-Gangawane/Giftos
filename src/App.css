@@ -1,0 +1,35 @@
+
+
+/* Header123 Navbar */
+
+a:link,a:visited,nav{
+  margin: auto; color: black;
+  font-size: 15px;
+  margin-right: 10px;
+}
+.gifto-nav{
+  margin: auto;
+  color: black;
+  font-weight: bolder;
+  font-size: 15px;
+  margin-right: 10px;
+}
+.btn{
+  background-color: pink;
+ font-weight: bolder;
+}
+.btn:hover{
+background-color: black;
+color: white;
+}
+.contact-nav{
+  color: gray;
+}
+
+.footer-text{
+  color: gray;
+  font-size: 20px;
+}
+button{
+  opacity: 0.9;
+}
