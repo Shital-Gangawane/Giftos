@@ -18,7 +18,7 @@ import Footer from './Footer';
       <Saving2/>
       <Contact/>
       <Testimonial/>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
   )
 }
